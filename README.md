@@ -121,7 +121,7 @@ Cuando haya funcionado, verás los valores dentro del LCD como se muestra en la 
 
 ![image](https://github.com/MiguelMontesinos/Practica-5-DHT22-con-Ultras-nico-con-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20211159.png?raw=true)
 
-![image]()
+![image](https://github.com/MiguelMontesinos/Practica-5-DHT22-con-Ultras-nico-con-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20211212.png?raw=true)
 
 ## Desarrollado por 
 
